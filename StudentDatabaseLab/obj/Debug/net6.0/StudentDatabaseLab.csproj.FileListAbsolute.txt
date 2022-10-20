@@ -1,0 +1,15 @@
+M:\GrandCircus\StudentDatabaseLab\StudentDatabaseLab\bin\Debug\net6.0\StudentDatabaseLab.exe
+M:\GrandCircus\StudentDatabaseLab\StudentDatabaseLab\bin\Debug\net6.0\StudentDatabaseLab.deps.json
+M:\GrandCircus\StudentDatabaseLab\StudentDatabaseLab\bin\Debug\net6.0\StudentDatabaseLab.runtimeconfig.json
+M:\GrandCircus\StudentDatabaseLab\StudentDatabaseLab\bin\Debug\net6.0\StudentDatabaseLab.dll
+M:\GrandCircus\StudentDatabaseLab\StudentDatabaseLab\bin\Debug\net6.0\StudentDatabaseLab.pdb
+M:\GrandCircus\StudentDatabaseLab\StudentDatabaseLab\obj\Debug\net6.0\StudentDatabaseLab.csproj.AssemblyReference.cache
+M:\GrandCircus\StudentDatabaseLab\StudentDatabaseLab\obj\Debug\net6.0\StudentDatabaseLab.GeneratedMSBuildEditorConfig.editorconfig
+M:\GrandCircus\StudentDatabaseLab\StudentDatabaseLab\obj\Debug\net6.0\StudentDatabaseLab.AssemblyInfoInputs.cache
+M:\GrandCircus\StudentDatabaseLab\StudentDatabaseLab\obj\Debug\net6.0\StudentDatabaseLab.AssemblyInfo.cs
+M:\GrandCircus\StudentDatabaseLab\StudentDatabaseLab\obj\Debug\net6.0\StudentDatabaseLab.csproj.CoreCompileInputs.cache
+M:\GrandCircus\StudentDatabaseLab\StudentDatabaseLab\obj\Debug\net6.0\StudentDatabaseLab.dll
+M:\GrandCircus\StudentDatabaseLab\StudentDatabaseLab\obj\Debug\net6.0\refint\StudentDatabaseLab.dll
+M:\GrandCircus\StudentDatabaseLab\StudentDatabaseLab\obj\Debug\net6.0\StudentDatabaseLab.pdb
+M:\GrandCircus\StudentDatabaseLab\StudentDatabaseLab\obj\Debug\net6.0\StudentDatabaseLab.genruntimeconfig.cache
+M:\GrandCircus\StudentDatabaseLab\StudentDatabaseLab\obj\Debug\net6.0\ref\StudentDatabaseLab.dll
